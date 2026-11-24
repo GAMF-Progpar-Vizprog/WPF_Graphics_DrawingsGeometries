@@ -1,9 +1,9 @@
-﻿<Window x:Class="WPFDrawingsGeometries.MainWindow"
+﻿<Window x:Class="WPF_Graphics_DrawingsGeometries.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WPFDrawingsGeometries"
+        xmlns:local="clr-namespace:WPF_Graphics_DrawingsGeometries"
         mc:Ignorable="d"
         Title="Drawings and Geometries" Height="181" Width="463">
 	<Canvas>
